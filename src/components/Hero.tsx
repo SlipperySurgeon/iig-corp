@@ -176,7 +176,7 @@ export default function Hero() {
             Problems Stop Here.
           </h1>
           <p className="mt-6 max-w-[600px] text-[17px] leading-relaxed text-steel sm:text-[20px]">
-            IIG provides expert Cloverleaf, HL7, and FHIR integration services
+            IIG provides expert Cloverleaf, Mirth Connect, HL7, and FHIR integration services
             exclusively for specialty clinical laboratories. When your LIS needs
             to talk to Epic, Cerner, or 40 other systems — we make it work.
           </p>

@@ -18,7 +18,7 @@ const services: Service[] = [
   {
     title: "Cloverleaf Integration Engine",
     Icon: Network,
-    body: "Full lifecycle Cloverleaf development and administration. Thread design, TPS procs, site management, monitoring, and multi-site fleet operations across AIX and Linux environments.",
+    body: "Full lifecycle Cloverleaf development and administration. Thread design, TPS procs, site management, monitoring, and multi-site fleet operations across Windows, AIX and Linux environments.",
   },
   {
     title: "HL7 & FHIR Interoperability",

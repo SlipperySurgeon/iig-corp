@@ -11,15 +11,14 @@ export default function About() {
           </h2>
           <div className="mt-8 space-y-5 text-[17px] leading-[1.7] text-gray-brand">
             <p>
-              Infrastructure &amp; Integration Group, Inc. is a Colorado-based
+              Infrastructure &amp; Integration Group, Inc. is a US-based
               healthcare IT integration firm built on a simple premise:
               specialty laboratories deserve the same caliber of integration
               expertise as large hospital systems — without the enterprise
               price tag or the bureaucracy.
             </p>
             <p>
-              We are an Infor Partner Network member and one of a small number
-              of independent consultants with deep, hands-on Cloverleaf
+              We are one of a small number of independent consultants with deep, hands-on integration
               expertise at scale. Currently supporting a national specialty
               reference laboratory with 45+ active interfaces across a diverse
               trading partner network including Epic and Cerner health systems.
@@ -35,10 +34,10 @@ export default function About() {
           </div>
           <div className="mt-8 flex flex-wrap gap-2">
             <span className="rounded bg-offwhite px-3.5 py-1.5 text-[13px] text-gray-brand">
-              📍 Pagosa Springs, Colorado
+              📍 USA
             </span>
             <span className="rounded bg-offwhite px-3.5 py-1.5 text-[13px] text-gray-brand">
-              🏢 Colorado S-Corporation · IPN Member
+              🏢 S-Corporation · Insured
             </span>
           </div>
         </div>

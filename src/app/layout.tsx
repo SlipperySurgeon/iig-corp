@@ -21,7 +21,7 @@ const jetbrains = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "IIG — Healthcare IT Integration for Specialty Labs",
+  title: "IIG — Infrastructure and Integration Group",
   description:
     "Infrastructure & Integration Group provides expert Cloverleaf, HL7, and FHIR integration services for specialty clinical laboratories.",
   metadataBase: new URL("https://iig-corp.com"),

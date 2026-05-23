@@ -25,12 +25,12 @@ export default function Nav() {
       <div className="mx-auto max-w-7xl px-6 sm:px-8 h-20 flex items-center justify-between">
         <a href="#top" className="flex items-center" aria-label="IIG home">
           <Image
-            src="/IIG_Logo_1_trans_bkg.png"
+            src="/IIG_Logo_White_Trans_512.png"
             alt="Infrastructure & Integration Group"
-            width={160}
-            height={40}
+            width={512}
+            height={512}
             priority
-            className="h-10 w-auto"
+            className="h-18 w-auto"
           />
         </a>
         <a

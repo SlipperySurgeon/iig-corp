@@ -57,7 +57,7 @@ export default function Footer() {
           </a>
         </div>
         <div className="mt-6 border-t border-white/10 pt-6 text-center text-[12px] text-steel">
-          © 2025 Infrastructure &amp; Integration Group, Inc. · Pagosa Springs, CO
+          © {new Date().getFullYear()} Infrastructure & Integration Group, Inc. · North America
         </div>
       </div>
     </footer>
