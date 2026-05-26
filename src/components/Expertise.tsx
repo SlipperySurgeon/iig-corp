@@ -22,7 +22,7 @@ const badges = [
 
 const stats = [
   { value: "20+", label: "Years in Healthcare IT" },
-  { value: "5000+", label: "Active Interfaces Managed" },
+  { value: "75+", label: "Active Interfaces Managed" },
   { value: "78+", label: "Sites Supported" },
   { value: "1", label: "Point of Contact — Always" },
 ];
